@@ -1,0 +1,10 @@
+sara does not work
+Programming is the process of designing and building executable computer programs to accomplish specific tasks.
+A programming language is a set of syntax and semantics used to create instructions that can be executed by a computer.
+What is the difference between front-end and back-end development?
+Front-end development involves creating the visible parts of a website or application that users interact with, while back-end development involves server-side operations and database management.
+Version control systems like Git help track changes to code, allowing multiple developers to collaborate, revert to previous versions, and manage codebase histories efficiently.
+What is an algorithm?
+An algorithm is a step-by-step procedure or set of rules used to solve a problem or perform a computation.
+sami work as a backend developer.
+Sara starts  work as a front-end after 2023
